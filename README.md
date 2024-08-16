@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Vscode,Trello,Canva.</strong>
+  💼 Ferramentas: <strong>Vscode,Canva.</strong>
 </p>
 
 <br>
