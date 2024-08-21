@@ -4,7 +4,7 @@
   Olá, meu nome é Paulo Vinicius. Atualmente, estou cursando o segundo período de Ciência da Computação na UNIFBV Wyden. Utilizo Python em meus estudos e projetos. No momento, estou em busca de oportunidades de trabalho na área de tecnologia. Estou disposto a enfrentar novos desafios e contribuir com minhas habilidades técnicas e minha vontade de aprender.</p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, javascript.</strong>
+  🦄 Linguagens: <strong>Python, javascript, Node.js.</strong>
 </p>
 
 <p align="left">
