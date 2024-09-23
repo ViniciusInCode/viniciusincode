@@ -16,7 +16,7 @@ const mySkills: Skills = {
 };
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusInCode&show_icons=true&theme=dark&count_private=true&hide_rank=true&" width="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusInCode&show_icons=true&theme=dark&count_private=true&hide_rank=true&" width="250px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusInCode&layout=normal&theme=dark&show_icons=true" width="250px"/>
