@@ -21,3 +21,6 @@ const mySkills: Skills = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusInCode&layout=normal&theme=dark&show_icons=true" width="250px"/>
 </a>
+<div>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+</div>
