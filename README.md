@@ -13,9 +13,9 @@ const myprofile: Developer = {
 };
 
 const mySkills: Skills = {
-  languages: ["JavaScript", "Python"],
-  libraries: ["React", "TensorFlow"],
-  frameworks: ["Bootstrap", "Vue.js", "Express.js"]
+  languages: ["JavaScript", "Typescript"],
+  libraries: ["React"],
+  frameworks: ["Bootstrap", "Vue.js", "NestJs"]
 };
 ```
 ### GitHub Statistics
